@@ -32,8 +32,8 @@ It was created as a learning project to understand Android UI design and app str
 
 ## 📸 Screenshots  
 
-![Home Screen](./screenshots/home.png)
-![Task List](./screenshots/tasks.png)
+![Home Screen](./app/screenshots/home.png)
+![Task List](./app/screenshots/tasks.png)
 
 ---
 
