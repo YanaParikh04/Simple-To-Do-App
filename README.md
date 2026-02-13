@@ -32,8 +32,10 @@ It was created as a learning project to understand Android UI design and app str
 
 ## 📸 Screenshots  
 
-![Home Screen](./app/screenshots/home.png)
-![Task List](./app/screenshots/tasks.png)
+<div align="center">
+  <img src="./app/screenshots/home.png" width="250" />
+  <img src="./app/screenshots/tasks.png" width="250" />
+</div>
 
 ---
 
